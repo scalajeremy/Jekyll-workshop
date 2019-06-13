@@ -2,7 +2,7 @@
 
 First you'll need a ruby environnement. It's pretty easy how to do it, follow these steps:
 
-[MacOSX]("#macosx")
+[MacOSX](#macosx)
 
 ## Linux
 
