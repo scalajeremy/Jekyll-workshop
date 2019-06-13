@@ -1,5 +1,7 @@
 # Jekyll
 
+[jekyll-logo](/jekyll_logo.png)
+
 ## Transform your plain text into static websites and blogs.
 
 ### Table of content
