@@ -1,6 +1,6 @@
 # Jekyll
 
-![jekyll-logo](/jekyll_logo.png)
+![jekyll-logo](/jekyll-logo.png)
 
 ## Transform your plain text into static websites and blogs.
 
