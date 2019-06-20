@@ -9,7 +9,14 @@
 1. [Let's start with the setup of your environnement.](1_env.md)
 2. [Installation of Jekyll](2_install.md)
 3. [Start messing arround](3_start.md)
+4. [Give some plugin love to your Jekyll](4_plugins.md)
+5. [Colorize your Jekyll with a theme](5_theme.md)
+
+## Team
+
+[Jeremy Scala](http://scalajeremy.github.com)
+[Jonathan Blavier](http://odaeyes.github.com)
 
 ## Credits
 
-Done for my training [@Becode](http://www.becode.org)
+Done for our training [@Becode](http://www.becode.org)
