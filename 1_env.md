@@ -1,41 +1,7 @@
 # 1. Let's start with the setup of your environnement
 
-First you'll need a ruby environnement. It's pretty easy how to do it, follow these steps:
+You can do it by following the official [doc here](https://jekyllrb.com/docs/installation/)
 
-[MacOSX](#macosx)
+**Or** you can download the [bash script](https://github.com/scalajeremy/Bash-Scripts-Collection/blob/master/scripts/jekyll.sh) (right click > "save link as") and execute it.
 
-## Linux
-
-Install dependencies:
-
-```sh
-sudo apt-get install ruby-full build-essential zlib1g-dev
-```
-
-### If you use Bash
-
-```sh
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
-```
-
-### If you use ZSH
-
-```sh
-echo '# Install Ruby Gems to ~/gems' >> ~/.zshrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.zshrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.zshrc
-source ~/.zshrc
-```
-
-### Finally, install Jekyll
-
-```sh
-gem install jekyll bundler
-```
-
-That's it! You're ready to start using Jekyll.
-
-## MacOSX
+`bash jekyll.sh`
