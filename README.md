@@ -14,8 +14,8 @@
 
 ## Team
 
-[Jeremy Scala](http://scalajeremy.github.com)
-[Jonathan Blavier](http://odaeyes.github.com)
+[Jeremy Scala](https://github.com/scalajeremy)
+[Jonathan Blavier](http://github.com/odaeyes)
 
 ## Credits
 
