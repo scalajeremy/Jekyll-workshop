@@ -11,7 +11,7 @@ end
 
 Here is your default plugin bundler with already a plugin inside.
 
-What you need to do is just to add the gem jekyll-admin inside the group.
+What you need to do is just add the gem jekyll-admin inside the group.
 
 ```ruby
 # If you have any plugins, put them here!
@@ -35,8 +35,10 @@ For later, here is a list of some [usefull plugins](https://github.com/planetjek
 
 ## What is jekyll-admin and how to use it
 
-A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer of Jekyll sites.
 
-Navigate to [http://localhost:4000/admin](http://localhost:4000/admin) to access the admin panel
+Navigate to [http://localhost:4000/admin](http://localhost:4000/admin) to access the admin panel.
+
+Note that this is stricly a local admin. No need to login!
 
 ## Next step : [5. config.yml & install a theme](5_theme.md)

@@ -1,6 +1,6 @@
 # 3. Start a new project
 
-To start a new project, first we need to create it. Go to the folder where you want to create it.
+To start a new project, first we need to create it. Go to the folder where you want it. Now run this line:
 
 ```bash
 jekyll new myblog
@@ -15,7 +15,7 @@ cd myblog && bundle exec jekyll serve
 
 > :warning: Maybe you've seen a little error in the console. Something about a favicon missing. Just add one in the root folder of your project. 
 >
->You don't have one? Here you go (it a "J" for Jekyll... but also for Jeremy & Jonathan :laughing: )
+>You don't have one? Here you go (it's a "J" for Jekyll... but also for Jeremy & Jonathan :laughing: )
 >
 > ![favicon](favicon.ico)
 

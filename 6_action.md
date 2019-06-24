@@ -12,7 +12,7 @@ If it's not yet build
 
 ## Add some posts
 
-Take a look to the **_posts** folder. There is a file that should look like that `2019-06-25-welcome-to-jekyll.markdown`. This is a post, a news, an entry to your blog.
+Take a look to the `_posts` folder. There is a file that should look like that `2019-06-25-welcome-to-jekyll.markdown`. This is a post, a news, an entry to your blog.
 By default, Jekyll will show them on your homepage by date order.
 For now, we'll just learn to make a new entry.
 
@@ -92,13 +92,13 @@ title: Admin
 ---
 ```
 
-We're still missing the date, BUT, Jekyll have put it in the path file, so it's correct, but it's only use the day, not the hour. If you need to put more posts on the same day, it could be a bit tricky to show them in the correct order. If you need to override the date, you can specify a metafield "date" and put it exactly like in the Frontmatter we did earlier. When you do that, Jekyll-admin add two buttons to select more easily a date and hour.
+We're still missing the date, BUT, Jekyll have put it in the path file, so it's correct, but it only use the day, not the hour. If you need to put more posts on the same day, it could be a bit tricky to show them in the correct order. If you need to override the date, you can specify a metafield "date" and put it exactly like in the Frontmatter we did earlier. When you do that, Jekyll-admin add two buttons to select more easily a date and hour.
 
 ## Add a page
 
 Pages works exactly like post, but they have another purpose. Being some content that don't need to look like a news. More like a team page or a contact one.
 
-To add one, you can do add a file to the root folder or do it with Jekyll-admin
+To add one, you can add a file to the root folder or do it with Jekyll-admin
 
 The most important thing to never forget when creating a file in Jekyll-admin or by yourself, is to put the layout.
 

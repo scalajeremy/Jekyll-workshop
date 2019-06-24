@@ -2,7 +2,7 @@
 
 Now that we setup your environnement we're gonna install Jekyll
 
-You can do it, again, by following the official [doc here](https://jekyllrb.com/docs) or these quick steps:
+You can do it, again, by following the official [doc here](https://jekyllrb.com/docs) or this quick step:
 
 ## Linux
 
