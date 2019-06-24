@@ -98,7 +98,7 @@ We're still missing the date, BUT, Jekyll have put it in the path file, so it's 
 
 Pages works exactly like post, but they have another purpose. Being some content that don't need to look like a news. More like a team page or a contact one.
 
-To add one, you can add a file to the root folder or do it with Jekyll-admin
+To add one, you can add a file to the root folder or do it with Jekyll-admin.
 
 The most important thing to never forget when creating a file in Jekyll-admin or by yourself, is to put the layout.
 
