@@ -12,13 +12,15 @@ If it's not yet build
 
 ## Add some posts
 
-Take a look to the **_posts** folder. There is a file that should look like that "*2019-06-25-welcome-to-jekyll.markdown*". This is a post, a news, an entry to your blog.
-By default, Jekyll will show them to your homepage by date order.
+Take a look to the **_posts** folder. There is a file that should look like that `2019-06-25-welcome-to-jekyll.markdown`. This is a post, a news, an entry to your blog.
+By default, Jekyll will show them on your homepage by date order.
 For now, we'll just learn to make a new entry.
 
-Open your favorite text/code editor and create a new file "**2019-06-25-workshop.md**"
+Open your favorite text/code editor and create a new file `2019-06-25-workshop.md`
 
-Jekyll use something call **YAML Frontmatter**. It's some lines you have to put at the start of your file to let it know how it must show the page.
+Jekyll use something call **YAML Frontmatter**. It's some lines you have to put at the start of your file to let it know how it must handle the page.
+
+#### Put these lines
 
 ```yml
 ---
@@ -40,6 +42,12 @@ categories: workshop
 **category**: here you can put some categories to organize your entries. It's optionnal. More on that later.
 
 Now that we tell Jekyll how to display this page, let's add some content. Everything should be done in markdown.
+
+```markdown
+Add what you want here: text, images, links, title,...
+```
+
+Need a refreshner on markdown? [Here your are](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Add some posts with Jekyll-admin
 
@@ -84,7 +92,7 @@ title: Admin
 ---
 ```
 
-We're still missing the date, BUT, Jekyll have put it in the path file, so it's correct, but it's only use the day, not the hour. If you need to put more posts on the same day, it could be a bit tricky to show them in the correct order. If you need to override the date, you can specify a metafield "date" and put it exactly like in the Frontmatter we did earlier.
+We're still missing the date, BUT, Jekyll have put it in the path file, so it's correct, but it's only use the day, not the hour. If you need to put more posts on the same day, it could be a bit tricky to show them in the correct order. If you need to override the date, you can specify a metafield "date" and put it exactly like in the Frontmatter we did earlier. When you do that, Jekyll-admin add two buttons to select more easily a date and hour.
 
 ## Add a page
 

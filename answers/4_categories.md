@@ -2,7 +2,14 @@
 
 If you took a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/) it told you how to do it. Let's take a closer look.
 
+#### category.html
+
 ```html
+---
+layout: page
+permalink: /categories/
+title: Categories
+---
 <div id="archives">
 {% for category in site.categories %} <!-- Do something for each category -->
   <div class="archive-group">

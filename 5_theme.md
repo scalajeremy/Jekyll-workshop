@@ -2,7 +2,7 @@
 
 ## A quick look into the _config.yml
 
-The _config.yml is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that. So let's start and simply read the comments who are pretty explicites.
+The `_config.yml` is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that. So let's start and simply read the comments who are pretty self-explanatory. Don't touch anything yet, we'll do that in the exercices.
 
 ```yml
 # Site settings

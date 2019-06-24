@@ -2,7 +2,7 @@
 
 Here is an example of code to do it.
 
-Make an authors.yml file in `_data` folder
+Make an `authors.yml` file in `_data` folder
 
 ```yml
 - name: Eric Mill

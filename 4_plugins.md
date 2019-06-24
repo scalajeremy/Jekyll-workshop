@@ -1,6 +1,6 @@
 # 4. Plugins
 
-To use plugins, you need to add them to a Bundler group in your Gemfile. One usefull plugin is jekyll-admin so we will use it as an example.
+To use plugins, you need to add them to a Bundler group in your `Gemfile`. One usefull plugin is jekyll-admin so we will use it as an example.
 
 ```ruby
 # If you have any plugins, put them here!
@@ -27,7 +27,9 @@ And now you need to install it via terminal.
 bundle install
 ```
 
-And that's all.
+Restart your Jekyll. That's all.
+
+[More on installation of plugins](https://jekyllrb.com/docs/plugins/installation/)
 
 For later, here is a list of some [usefull plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
 

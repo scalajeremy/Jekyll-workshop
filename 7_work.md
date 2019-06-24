@@ -36,6 +36,8 @@ Let's start with something easy. Base on what we already seen, you should be abl
 >
 > :bulb: Hint #2: It's in the `_config.yml` file
 
+> :heavy_exclamation_mark: You have to restart your Jekyll to see the changes made in the `_config.yml` file.
+
 > :heavy_check_mark: [The answer](/answers/2_facebook.md). There is more infos.
 
 ## 3. Change basics infos of your site and make some defaults settings
@@ -47,6 +49,8 @@ You just edit the `_config.yml` file, maybe you noticed some other stuff in ther
 Now we'll do something usefull for Jekyll-Admin, we'll set some default value, so you can't forget to put the layout.
 
 > :bulb: Hint #1: you're gonna need this [in the doc](https://jekyllrb.com/docs/configuration/front-matter-defaults/)
+
+> :heavy_exclamation_mark: You have to restart your Jekyll to see the changes made in the `_config.yml` file.
 
 > :heavy_check_mark: [The answer](/answers/3_infos.md).
 
@@ -142,6 +146,17 @@ But there can be more of them. It depends on the theme you get. But in brief:
 
 ## Bonus
 
-Github page
+### Github page
 
-FTP
+By lack of time, I didn't experiment with Github Pages, but if you want there is plenty of infos in the [official doc of Jekyll](https://jekyllrb.com/docs/github-pages/) and [Github](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
+
+I can't give you support for it.
+
+### FTP
+
+Easy, connect to your FTP and then paste the content of `_site` in the folder you want. If there is a problem with the links, you'll need to edit your `_config.yml`
+
+```yml
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+```
