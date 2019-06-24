@@ -35,4 +35,4 @@ A Jekyll plugin that provides users with a traditional CMS-style graphical inter
 
 Navigate to [http://localhost:4000/admin](http://localhost:4000/admin) to access the administrative interface
 
-### Next step : [5. config.yml & install a theme](5_theme.md)
+## Next step : [5. config.yml & install a theme](5_theme.md)
