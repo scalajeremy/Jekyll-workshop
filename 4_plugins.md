@@ -25,4 +25,10 @@ bundle install
 ```
 And that's all.
 
+## What is jekyll-admin and how to use it
+
+A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites. 
+
+Navigate to http://localhost:4000/admin to access the administrative interface
+
 ### Next step : [5. config.yml & install a theme](5_theme.md) 
