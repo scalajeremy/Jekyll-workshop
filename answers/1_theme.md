@@ -20,4 +20,4 @@ Not that hard, isn't it?
 
 [For more informations](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 
-## [Return to the exercices](../7_work.md#Get-the-theme-files)
+## [Return to the exercices](../7_work.md#1-get-the-theme-files)

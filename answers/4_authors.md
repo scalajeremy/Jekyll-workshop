@@ -7,13 +7,13 @@ Make an authors.yml file in `_data` folder
 ```yml
 - name: Eric Mill
   
-
 - name: Parker Moore
   
-
 - name: Liu Fengyun
   
 ```
+
+:+1: You can acess these data from Jekyll-Admin!
 
 Now you can use it in your template.
 
@@ -27,7 +27,7 @@ Now you can use it in your template.
 </ul>
 ```
 
- # How to show the authors on the homepage and post page
+# How to show the authors on the homepage and post page
 
 Open `post.html` in `_layouts` folder then add these lines
 

@@ -4,9 +4,8 @@ To start a new project, first we need to create it.
 
 ```bash
 jekyll new myblog
+# Where "myblog" is the name of your project.
 ```
-
-Where "myblog" is the name of your project.
 
 Now we can go inside the project and build it with a default configuration and make it available on local.
 

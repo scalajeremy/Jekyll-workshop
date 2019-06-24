@@ -2,7 +2,7 @@
 
 Here is some exercices to learn a bit more about how Jekyll works. For each of them, I'm gonna explain the purpose of it, then you can start searching [the doc](https://jekyllrb.com/docs/) or google it. I'll add some hints and a link to the answer. When you complete an exercice, take a look at the answser, some time there is more informations.
 
-## List
+## List of exercices
 
 - [1. Get the theme files](#1-Get-the-theme-files)
 - [2. Add a link to your facebook page](#2-Add-a-link-to-your-facebook-page)
@@ -29,7 +29,9 @@ For these exercices we'll need to changes some lines in the default layout of th
 > Difficulty: :red_circle::red_circle::black_circle::black_circle::black_circle:
 
 Let's start with something easy. Base on what we already seen, you should be able to add a link to your facebook.
+## Linux
 
+### Get the dependencies
 > :bulb: Hint #1: There's already a link to Twitter & Github
 >
 > :bulb: Hint #2: It's in the `_config.yml` file
@@ -68,10 +70,17 @@ Ok so now that we have some articles in categories, we may want to show the auth
 
 Let's do it.
 
-* Check the doc [here](https://jekyllrb.com/docs/datafiles/)
 * Create a new page for displaying all the authors
 * Display the author of a post in the homepage
 * Display the author of a post in the post page itself
+
+
+> :bulb: Hint #1: It's almost the same as for the categories. But you'll need to use Data File to stock all the members
+>
+> :bulb: Hint #2: Check the doc [here](https://jekyllrb.com/docs/datafiles/) but not too quickly at the example
+
+> :heavy_check_mark: [The answer](/answers/4_authors.md).
+
 
 ## 5. Be crazy
 
