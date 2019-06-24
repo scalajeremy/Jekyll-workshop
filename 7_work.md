@@ -15,11 +15,11 @@ Here is some exercices to learn a bit more about how Jekyll works. For each of t
 For these exercices we'll need to changes some lines in the default layout of the minima theme. So the easiest way to do that is to add these files into your folder project rather then have them in your gem folder.
 
 > :bulb: Hint #1: You need a code to **returns** the location of the gem-based theme files.
-
+>
 > :bulb: Hint #2: You'll find it in the documentation, in the "theme" chapter.
-
+>
 > :heavy_exclamation_mark: Don't cut the files and folder you'll find, or other website you've created with Jekyll could not work properly anymore.
-
+>
 > :heavy_check_mark: [The answer](/answers/1_theme.md)
 
 ## Add a link to your facebook page
