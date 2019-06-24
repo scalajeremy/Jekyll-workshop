@@ -26,3 +26,21 @@ Now you can use it in your template.
     {% endfor %}
 </ul>
 ```
+
+ # How to show the authors on the homepage and post page
+
+Open `post.html` in `_layouts` folder then add these lines
+
+```html
+<div class="post-authors">
+  {% if post %}
+    {% assign authors = post.authors %}
+  {% else %}
+    {% assign authors = page.authors %}
+  {% endif %}
+  {% for author in authors %}
+  <a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{author}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+```
