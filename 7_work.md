@@ -36,7 +36,6 @@ Let's start with something easy. Base on what we already seen, you should be abl
 
 > :heavy_check_mark: [The answer](/answers/2_facebook.md). There is more infos.
 
-
 ## Add the categories
 
 > Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
@@ -45,10 +44,10 @@ We've seen that you can add some categories to your posts, but if you look close
 
 Let's fix that.
 
-- [ ] Check the doc [here](https://jekyllrb.com/docs/posts/)
-- [ ] Create a new page for displaying all the categories
-- [ ] Display the categories of a post in the homepage
-- [ ] Display the categories of a post in the post page itself
+* Check the doc [here](https://jekyllrb.com/docs/posts/)
+* Create a new page for displaying all the categories
+* Display the categories of a post in the homepage
+* Display the categories of a post in the post page itself
 
 > :bulb: Hint #1: You'll need this `site.categories`
 >
