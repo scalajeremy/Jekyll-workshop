@@ -1,39 +1,10 @@
 # 5. Install a theme and a quicklook into the config.yml
 
-## Install a gem-based theme
-To install a gem-based theme you need to :
-* Add it to your Gemfile and remove the ancient default theme
-
-```Ruby
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-    - gem "minima", "~> 2.0"
-    + gem "jekyll-theme-minimal"
-```
-* Install it
-
-```bash
-    bundle install
-```
-* Add it to the _config.yml to activate it
-```yml
-# Build settings
-    markdown: kramdown
-    theme: jekyll-theme-minimal
-```
-
-* Build your site
-```bash
-    bundle exec jekyll serve
-```
-:exclamation: You can have multiple themes listed in your site’s Gemfile, but only one theme can be selected in your site’s _config.yml.
-
-
-
 ## A quick look into the _config.yml
 
 The _config.yml is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that. So let's start and simply read the comments who are pretty explicites.
 
-```yml 
+```yml
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -68,3 +39,45 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 ```
+
+## LEt's take a break
+
+For the sake of the future exercices (in chapter 7) we will not install another theme. We'll use "minima" that come by default. You'll get the opportunity to play arround with theme and plugins at the end of this workshop.
+
+[So let's skip this part!](6_action.md)
+
+## Install a gem-based theme
+
+To install a gem-based theme you need to :
+
+* Add it to your Gemfile and remove the ancient default theme
+
+```Ruby
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+    - gem "minima", "~> 2.0"
+    + gem "jekyll-theme-minimal"
+```
+
+* Install it
+
+```bash
+    bundle install
+```
+
+* Change it to the _config.yml to activate it
+
+```yml
+# Build settings
+    markdown: kramdown
+    theme: jekyll-theme-minimal
+```
+
+* Build your site
+
+```bash
+    bundle exec jekyll serve
+```
+
+:exclamation: You can have multiple themes listed in your site’s Gemfile, but only one theme can be selected in your site’s _config.yml.
+
+Need to do: show the them files, copy them, change them.
