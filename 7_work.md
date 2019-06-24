@@ -12,7 +12,7 @@ Here is some exercices to learn a bit more about how Jekyll works. For each of t
 
 ## Get the theme files
 
-> Difficulty: :black_circle::black_circle::black_circle::black_circle::red_circle:
+> Difficulty: :red_circle::black_circle::black_circle::black_circle::black_circle:
 
 For these exercices we'll need to changes some lines in the default layout of the minima theme. So the easiest way to do that is to add these files into your folder project rather then have them in your gem folder.
 
@@ -26,7 +26,7 @@ For these exercices we'll need to changes some lines in the default layout of th
 
 ## Add a link to your facebook page
 
-> Difficulty: :black_circle::black_circle::black_circle::black_circle::red_circle:
+> Difficulty: :red_circle::red_circle::black_circle::black_circle::black_circle:
 
 Let's start with something easy. Base on what we already seen, you should be able to add a link to your facebook.
 
@@ -39,11 +39,19 @@ Let's start with something easy. Base on what we already seen, you should be abl
 
 ## Add the categories
 
-We've seen that you can add some categories to your posts, but if you look closely, they're not showing in the front page or in the post itself.
+> Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
+
+We've seen that you can add some categories to your posts, but if you look closely, they're not showing in the front page or in the post itself. And there is no page to show all of them.
 
 Let's fix that.
 
-> :bulb: Hint #1:
+[ ] Check the doc [here](https://jekyllrb.com/docs/posts/)
+[ ] Create a new page for displaying all the categories
+[ ] Display the categories of a post in the homepage
+[ ] Display the categories of a post in the post page itself
+
+> :bulb: Hint #1: You'll need this `site.categories`
+> :bulb: Hint #2: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/)
 >
 
->> :heavy_check_mark: [The answer](/answers/3_categories.md).
+> :heavy_check_mark: [The answer](/answers/3_categories.md).

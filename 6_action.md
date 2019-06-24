@@ -37,7 +37,7 @@ categories: workshop
 
 **date**: come on, it's just a date! :exclamation: Carefull with the format, It need to be: yyyy-mm-dd hh:mm:ss +/-TTTT. You can't "program" a article to appear in a future date. If you put a date in the future, you'll still need to rebuild your site for your article to appear.
 
-**categories**: here you can put some categories to organize your entries. It's optionnal. More on that later.
+**category**: here you can put some categories to organize your entries. It's optionnal. More on that later.
 
 Now that we tell Jekyll how to display this page, let's add some content. Everything should be done in markdown.
 

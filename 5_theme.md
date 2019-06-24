@@ -44,7 +44,7 @@ plugins:
 
 For the sake of the future exercices (in chapter 7) we will not install another theme. We'll use "minima" that come by default. You'll get the opportunity to play arround with theme and plugins at the end of this workshop.
 
-[So let's skip this part!](6_action.md)
+[So let's skip the next part for now!](6_action.md)
 
 ## Install a gem-based theme
 
