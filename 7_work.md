@@ -6,9 +6,11 @@ Here is some exercices to learn a bit more about how Jekyll works. For each of t
 
 - [1. Get the theme files](#1-Get-the-theme-files)
 - [2. Add a link to your facebook page](#2-Add-a-link-to-your-facebook-page)
-- [3. Add the categories](#3-Add-the-categories)
-- [4. Add a list of authors](#4-Add-a-list-of-authors)
-- [5. Be crazy](#5-Be-crazy)
+- [3. Change basics infos of your site](Change-basics-infos-of-your-site-and-make-some-defaults-settings)
+- [4. Add the categories](#4-Add-the-categories)
+- [5. Add a list of authors](#5-Add-a-list-of-authors)
+- [6. Be crazy](#6-Be-crazy)
+- [Bonus: FTP & Github page](#Bonus)
 
 ## 1. Get the theme files
 
@@ -26,19 +28,29 @@ For these exercices we'll need to changes some lines in the default layout of th
 
 ## 2. Add a link to your facebook page
 
-> Difficulty: :red_circle::red_circle::black_circle::black_circle::black_circle:
+> Difficulty: :red_circle::black_circle::black_circle::black_circle::black_circle:
 
 Let's start with something easy. Base on what we already seen, you should be able to add a link to your facebook.
-## Linux
 
-### Get the dependencies
 > :bulb: Hint #1: There's already a link to Twitter & Github
 >
 > :bulb: Hint #2: It's in the `_config.yml` file
 
 > :heavy_check_mark: [The answer](/answers/2_facebook.md). There is more infos.
 
-## 3. Add the categories
+## 3. Change basics infos of your site and make some defaults settings
+
+> Difficulty: :red_circle::red_circle::black_circle::black_circle::black_circle:
+
+You just edit the `_config.yml` file, maybe you noticed some other stuff in there... Let's change your title, description and email. Look for your changes.
+
+Now we'll do something usefull for Jekyll-Admin, we'll set some default value, so you can't forget to put the layout.
+
+> :bulb: Hint #1: you're gonna need this [in the doc](https://jekyllrb.com/docs/configuration/front-matter-defaults/)
+
+> :heavy_check_mark: [The answer](/answers/3_infos.md).
+
+## 4. Add the categories
 
 > Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
 
@@ -60,9 +72,9 @@ Let's fix that.
 > :bulb: Hint #4: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/)
 >
 
-> :heavy_check_mark: [The answer](/answers/3_categories.md).
+> :heavy_check_mark: [The answer](/answers/4_categories.md).
 
-## 4. Add a list of authors
+## 5. Add a list of authors
 
 > Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
 
@@ -79,10 +91,10 @@ Let's do it.
 >
 > :bulb: Hint #2: Check the doc [here](https://jekyllrb.com/docs/datafiles/) but not too quickly at the example
 
-> :heavy_check_mark: [The answer](/answers/4_authors.md).
+> :heavy_check_mark: [The answer](/answers/5_authors.md).
 
 
-## 5. Be crazy
+## 6. Be crazy
 
 > Difficulty: :red_circle::red_circle::red_circle::red_circle::black_circle:
 
@@ -127,3 +139,9 @@ But there can be more of them. It depends on the theme you get. But in brief:
 ```
 
 * In `_sass` you put your `.scss` files for the theme. Jekyll will compile it everytime you run `bundle exec jekyll serve`.
+
+## Bonus
+
+Github page
+
+FTP
