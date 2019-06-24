@@ -33,6 +33,6 @@ And that's all.
 
 A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 
-Navigate to [http://localhost:4000/admin](http://localhost:4000/admin) to access the administrative interface
+Navigate to [http://localhost:4000/admin](http://localhost:4000/admin) to access the admin panel
 
 ## Next step : [5. config.yml & install a theme](5_theme.md)
