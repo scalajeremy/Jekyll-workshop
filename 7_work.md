@@ -4,14 +4,13 @@ Here is some exercices to learn a bit more about how Jekyll works. For each of t
 
 ## List
 
-1. [Get the theme files](#Get-the-theme-files)
-2. [Add a link to your facebook page](#Add-a-link-to-your-facebook-page)
-3. [Add the categories](#Add-the-categories)
-4. [Add a list of authors](#Add-a-list-of-authors)
-5. [Be crazy about your template](#Be-crazy)
+- [1. Get the theme files](#1-Get-the-theme-files)
+- [2. Add a link to your facebook page](#2-Add-a-link-to-your-facebook-page)
+- [3. Add the categories](#3-Add-the-categories)
+- [4. Add a list of authors](#4-Add-a-list-of-authors)
+- [5. Be crazy](#5-Be-crazy)
 
-
-## Get the theme files
+## 1. Get the theme files
 
 > Difficulty: :red_circle::black_circle::black_circle::black_circle::black_circle:
 
@@ -25,7 +24,7 @@ For these exercices we'll need to changes some lines in the default layout of th
 
 > :heavy_check_mark: [The answer](/answers/1_theme.md)
 
-## Add a link to your facebook page
+## 2. Add a link to your facebook page
 
 > Difficulty: :red_circle::red_circle::black_circle::black_circle::black_circle:
 
@@ -37,7 +36,7 @@ Let's start with something easy. Base on what we already seen, you should be abl
 
 > :heavy_check_mark: [The answer](/answers/2_facebook.md). There is more infos.
 
-## Add the categories
+## 3. Add the categories
 
 > Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
 
@@ -61,7 +60,7 @@ Let's fix that.
 
 > :heavy_check_mark: [The answer](/answers/3_categories.md).
 
-## Add a list of authors
+## 4. Add a list of authors
 
 > Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
 
@@ -74,7 +73,7 @@ Let's do it.
 * Display the author of a post in the homepage
 * Display the author of a post in the post page itself
 
-## Be crazy
+## 5. Be crazy
 
 > Difficulty: :red_circle::red_circle::red_circle::red_circle::black_circle:
 

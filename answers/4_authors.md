@@ -44,3 +44,5 @@ Open `post.html` in `_layouts` folder then add these lines
   {% endfor %}
 </div>
 ```
+
+## [Return to the exercices](../7_work.md#4-Add-a-list-of-authors)

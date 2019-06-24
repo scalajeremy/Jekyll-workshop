@@ -27,3 +27,5 @@ Actually Minima theme support a lot of social web site. Here is the list:
 * googleplus_username
 
 If you need to add a different link to a website, you can take a look at the file `_includes/socials.html`.
+
+## [Return to the exercices](../7_work.md#2-Add-a-link-to-your-facebook-page)
