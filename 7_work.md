@@ -49,9 +49,13 @@ Let's fix that.
 * Display the categories of a post in the homepage
 * Display the categories of a post in the post page itself
 
-> :bulb: Hint #1: You'll need this `site.categories`
+> :bulb: Hint #1: You'll need to create a new html page at the root folder.
 >
-> :bulb: Hint #2: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/).
+> :bulb: Hint #2: You'll need this `site.categories`, 
+>
+> :bulb: Hint #3: You'll need to use [Liquid](https://jekyllrb.com/docs/liquid/) templating engine.
+>
+> :bulb: Hint #4: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/)
 >
 
 > :heavy_check_mark: [The answer](/answers/3_categories.md).
