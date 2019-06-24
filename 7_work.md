@@ -45,12 +45,13 @@ We've seen that you can add some categories to your posts, but if you look close
 
 Let's fix that.
 
-[ ] Check the doc [here](https://jekyllrb.com/docs/posts/)
-[ ] Create a new page for displaying all the categories
-[ ] Display the categories of a post in the homepage
-[ ] Display the categories of a post in the post page itself
+- [ ] Check the doc [here](https://jekyllrb.com/docs/posts/)
+- [ ] Create a new page for displaying all the categories
+- [ ] Display the categories of a post in the homepage
+- [ ] Display the categories of a post in the post page itself
 
 > :bulb: Hint #1: You'll need this `site.categories`
+>
 > :bulb: Hint #2: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/)
 >
 
