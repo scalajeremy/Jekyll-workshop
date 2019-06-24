@@ -24,5 +24,20 @@ If you took a look at [this tutorial](https://blog.webjeda.com/jekyll-categories
 
 It's just a for loop, done with [Liquid](https://jekyllrb.com/docs/liquid/). If you want to know more about it, you'll need to learn it by yourself, sorry.
 
-# How to show the category on the homepage 
+# How to show the category on the homepage and post page.
 
+Open `post.html` in `_layouts` folder then add these lines
+
+```html
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+```
