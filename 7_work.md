@@ -7,7 +7,7 @@ Here is some exercices to learn a bit more about how Jekyll works. For each of t
 1. [Get the theme files](#Get-the-theme-files)
 2. [Add a link to your facebook page](#Add-a-link-to-your-facebook-page)
 3. [Add the categories](#Add-the-categories)
-4. Add a list of author
+4. [Add a list of authors](#Add-a-list-of-authors)
 5. Change the layout
 
 ## Get the theme files
@@ -51,7 +51,20 @@ Let's fix that.
 
 > :bulb: Hint #1: You'll need this `site.categories`
 >
-> :bulb: Hint #2: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/)
+> :bulb: Hint #2: Take a look at [this tutorial](https://blog.webjeda.com/jekyll-categories/).
 >
 
 > :heavy_check_mark: [The answer](/answers/3_categories.md).
+
+## Add a list of authors
+
+> Difficulty: :red_circle::red_circle::red_circle::black_circle::black_circle:
+
+Ok so now that we have some articles in categories, we may want to show the authors of each and a list of authors. 
+
+Let's do it.
+
+* Check the doc [here](https://jekyllrb.com/docs/datafiles/)
+* Create a new page for displaying all the authors
+* Display the author of a post in the homepage
+* Display the author of a post in the post page itself
