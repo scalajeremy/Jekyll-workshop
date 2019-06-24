@@ -29,6 +29,8 @@ bundle install
 
 And that's all.
 
+For later, here is a list of some [usefull plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+
 ## What is jekyll-admin and how to use it
 
 A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
