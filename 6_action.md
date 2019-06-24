@@ -14,6 +14,4 @@ Now go to:
     http://127.0.0.1:4000/
 ```
 
-You should see your website
 
-![jekyll_minima.png]

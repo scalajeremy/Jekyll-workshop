@@ -11,4 +11,8 @@ cd myblog && bundle exec jekyll serve
 ```
 There we can browse to  [localhost:4000](http://localhost:4000)
 
+You should see your website
+
+![jekyll_minima.png]
+
 ### Next step: [4. Plugins](4_plugins.md)
