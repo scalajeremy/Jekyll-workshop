@@ -1,7 +1,7 @@
 # 5. Install a theme and a quicklook into the config.yml
 
 ## Install a gem-based theme
-To install a gem-based theme you need to : 
+To install a gem-based theme you need to :
 * Add it to your Gemfile and remove the ancient default theme
 
 ```Ruby
