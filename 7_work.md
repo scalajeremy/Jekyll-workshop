@@ -1,16 +1,18 @@
 # Exercices
 
-Here is some exercices to learn a bit more about how Jekyll works. For each of them, I'm gonna explain the purpose of it, then you can start searching [the doc](https://jekyllrb.com/docs/) or google it. I'll add some hints and a link to the answer.
+Here is some exercices to learn a bit more about how Jekyll works. For each of them, I'm gonna explain the purpose of it, then you can start searching [the doc](https://jekyllrb.com/docs/) or google it. I'll add some hints and a link to the answer. When you complete an exercice, take a look at the answser, some time there is more informations.
 
 ## List
 
 1. [Get the theme files](#Get-the-theme-files)
 2. [Add a link to your facebook page](#Add-a-link-to-your-facebook-page)
-3. Add the categories
+3. [Add the categories](#Add-the-categories)
 4. Add a list of author
 5. Change the layout
 
 ## Get the theme files
+
+> Difficulty: :black_circle::black_circle::black_circle::black_circle::red_circle:
 
 For these exercices we'll need to changes some lines in the default layout of the minima theme. So the easiest way to do that is to add these files into your folder project rather then have them in your gem folder.
 
@@ -24,8 +26,24 @@ For these exercices we'll need to changes some lines in the default layout of th
 
 ## Add a link to your facebook page
 
+> Difficulty: :black_circle::black_circle::black_circle::black_circle::red_circle:
+
 Let's start with something easy. Base on what we already seen, you should be able to add a link to your facebook.
 
 > :bulb: Hint #1: There's already a link to Twitter & Github
+>
 > :bulb: Hint #2: It's in the `_config.yml` file
 
+> :heavy_check_mark: [The answer](/answers/2_facebook.md). There is more infos.
+
+
+## Add the categories
+
+We've seen that you can add some categories to your posts, but if you look closely, they're not showing in the front page or in the post itself.
+
+Let's fix that.
+
+> :bulb: Hint #1:
+>
+
+>> :heavy_check_mark: [The answer](/answers/3_categories.md).
