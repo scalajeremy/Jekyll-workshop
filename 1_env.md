@@ -39,7 +39,7 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
-#### Don't remembering you shell?
+#### Don't remembering your shell?
 
 ```bash
 echo $SHELL
