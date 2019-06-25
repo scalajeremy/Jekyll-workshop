@@ -102,13 +102,13 @@ Let's do it.
 
 > Difficulty: :red_circle::red_circle::red_circle::red_circle::black_circle:
 
-Now that you've seen how Jekyll work and how you can customize it, let's get creative and change the template.
+Now that you've seen how Jekyll work and how you can customize it, let's get creative and add a theme and/or plugin(s).
 
 [Install a theme](5_theme.md#Install-a-gem-based-theme)
 
 [Install another plugin](4_plugins.md)
 
-Here is some information about files of a theme:
+Here is some information about the files of the default minima theme:
 
 Files                                       | What he does
 ------------                                | -------------
