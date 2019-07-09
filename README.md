@@ -1,5 +1,11 @@
 # Jekyll Workshop
 
+![GitHub](https://img.shields.io/github/license/scalajeremy/Jekyll-workshop.svg?style=for-the-badge)
+
+> Learn the basics of Jekyll 
+
+---
+
 ![jekyll-logo](/jekyll-logo.png)
 
 ## Transform your plain text into static websites and blogs.
