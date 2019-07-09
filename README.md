@@ -1,16 +1,7 @@
 # Jekyll Workshop
 
 ![GitHub](https://img.shields.io/github/license/scalajeremy/Jekyll-workshop.svg?style=for-the-badge)
-
-> Learn the basics of Jekyll 
-
----
-
-![jekyll-logo](/jekyll-logo.png)
-
-## Transform your plain text into static websites and blogs.
-
-### Table of content
+![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-red.svg?style=for-the-badge)
 
 1. [Let's start with the setup of your environnement.](1_env.md)
 2. [Installation of Jekyll](2_install.md)
